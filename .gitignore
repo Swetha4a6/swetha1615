@@ -1,0 +1,6 @@
+
+any file that git should not track
+*.log
+*.xml
+*.json
+*.class
